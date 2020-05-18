@@ -2,6 +2,7 @@
 
 Cheatsheets:
 * [Modern JavaScript](https://www.cyanhall.com/posts/notes/8.javascript-cheatsheet/)
+  * [TypeScript](https://www.cyanhall.com/posts/notes/13.typescript-cheatsheet/)
   * [Deno](https://www.cyanhall.com/posts/notes/11.deno-cheatsheet/)
   * [Vue.js](https://www.cyanhall.com/posts/notes/9.vue-js-cheatsheet/)
 * [CSS Flexbox (Interactive)](https://www.cyanhall.com/posts/notes/12.css-flexbox-cheatsheet/)
