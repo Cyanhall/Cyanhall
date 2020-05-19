@@ -9,3 +9,6 @@ Cheatsheets:
 * [Command Line](https://www.cyanhall.com/posts/notes/1.shell-shortcut/)
   * [Git](https://www.cyanhall.com/posts/notes/4.git-shotcut/)
   * [Homebrew](https://www.cyanhall.com/posts/notes/7.homebrew-cheatsheet/)
+* [Ansible](https://www.cyanhall.com/posts/notes/14.ansible-cheatsheet/)
+
+中文版速查表可访问：[这里](https://www.cyanhall.com/cn/)
