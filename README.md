@@ -10,5 +10,6 @@ Cheatsheets:
   * [Git](https://www.cyanhall.com/posts/notes/4.git-shotcut/)
   * [Homebrew](https://www.cyanhall.com/posts/notes/7.homebrew-cheatsheet/)
 * [Ansible](https://www.cyanhall.com/posts/notes/14.ansible-cheatsheet/)
+* [Useful Links](https://www.cyanhall.com/posts/notes/6.useful-online-tools-for-programmer/)
 
-中文版速查表可访问：[这里](https://www.cyanhall.com/cn/)
+中文版可访问：[这里](https://www.cyanhall.com/cn/)
