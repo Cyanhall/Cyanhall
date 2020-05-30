@@ -10,6 +10,7 @@ Cheatsheets:
   * [Git](https://www.cyanhall.com/posts/notes/4.git-shotcut/)
   * [Homebrew](https://www.cyanhall.com/posts/notes/7.homebrew-cheatsheet/)
 * [Python 3](https://www.cyanhall.com/posts/notes/16.python-cheatsheet/)
+* [Golang](https://www.cyanhall.com/cn/posts/notes/17.go-cheatsheet/)
 * [Docker](https://www.cyanhall.com/posts/notes/15.docker-cheatsheet/)
 * [Ansible](https://www.cyanhall.com/posts/notes/14.ansible-cheatsheet/)
 * [Useful Links](https://www.cyanhall.com/posts/notes/6.useful-online-tools-for-programmer/)
