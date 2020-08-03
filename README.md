@@ -1,5 +1,12 @@
 # [Cyanhall](https://www.cyanhall.com/)
 
+---
+
+原创精品技术视频：
+* [现代 JavaScript 知识速览（2020）！](https://www.bilibili.com/video/BV1bt4y1D7si/)
+
+---
+
 Cheatsheets:
 * [Modern JavaScript](https://www.cyanhall.com/posts/notes/8.javascript-cheatsheet/)
   * [TypeScript](https://www.cyanhall.com/posts/notes/13.typescript-cheatsheet/)
