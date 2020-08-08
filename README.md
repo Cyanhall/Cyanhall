@@ -3,8 +3,8 @@
 ---
 
 原创精品技术视频：
-* [现代 JavaScript 知识速览（2020）！](https://www.bilibili.com/video/BV1bt4y1D7si/)
-* [【Cyanhall】CSS 图片处理！](https://www.bilibili.com/video/BV1D54y1m7vq)
+* [现代 JavaScript 知识速览（2020）](https://www.bilibili.com/video/BV1bt4y1D7si/)
+* [【Cyanhall】CSS 图片处理](https://www.bilibili.com/video/BV1D54y1m7vq)
 
 ---
 
