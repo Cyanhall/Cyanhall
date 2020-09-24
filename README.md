@@ -10,10 +10,11 @@
 
 Cheatsheets:
 * [Modern JavaScript](https://www.cyanhall.com/posts/notes/8.javascript-cheatsheet/)
-  * [Date & Time](https://www.cyanhall.com/posts/notes/18.javascript-date-time-cheatsheet/)
+  * [Date & Time (Moment.js/Day.js/date-fns)](https://www.cyanhall.com/posts/notes/18.javascript-date-time-cheatsheet/)
   * [TypeScript](https://www.cyanhall.com/posts/notes/13.typescript-cheatsheet/)
   * [Deno](https://www.cyanhall.com/posts/notes/11.deno-cheatsheet/)
   * [Vue.js](https://www.cyanhall.com/posts/notes/9.vue-js-cheatsheet/)
+* [CSS Image Processing](https://www.cyanhall.com/posts/notes/19.css-image-processing/)
 * [CSS Flexbox (Interactive)](https://www.cyanhall.com/posts/notes/12.css-flexbox-cheatsheet/)
 * [Command Line](https://www.cyanhall.com/posts/notes/1.shell-shortcut/)
   * [Git](https://www.cyanhall.com/posts/notes/4.git-shotcut/)
