@@ -19,6 +19,7 @@ Cheatsheets:
 * [Command Line](https://www.cyanhall.com/posts/notes/1.shell-shortcut/)
   * [Git](https://www.cyanhall.com/posts/notes/4.git-shotcut/)
   * [Homebrew](https://www.cyanhall.com/posts/notes/7.homebrew-cheatsheet/)
+  * [FFmpeg](https://www.cyanhall.com/posts/notes/20.ffmpeg-cheatsheet/)
 * [Python 3](https://www.cyanhall.com/posts/notes/16.python-cheatsheet/)
 * [Golang](https://www.cyanhall.com/cn/posts/notes/17.go-cheatsheet/)
 * [Docker](https://www.cyanhall.com/posts/notes/15.docker-cheatsheet/)
