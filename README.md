@@ -1,5 +1,5 @@
 # [Cyanhall](https://www.cyanhall.com/)
-http://localhost:1314/cheatsheet/8.javascript-cheatsheet
+
 ---
 
 Cheatsheets:
