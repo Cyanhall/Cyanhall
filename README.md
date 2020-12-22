@@ -2,24 +2,6 @@
 
 ---
 
-[Top](https://www.cyanhall.com/top/):
- * [Top JavaScript Frameworks](https://www.cyanhall.com/top/javascript-framework/)
- * [Top React UI Frameworks](https://www.cyanhall.com/top/vue-ui-framework/)
- * [Top Vue UI Frameworks](https://www.cyanhall.com/top/vue-ui-framework/)
- * [Top Cross Platform Frameworks](https://www.cyanhall.com/top/cross-platform-framework/)
- * [Top CSS Frameworks](https://www.cyanhall.com/top/css-framework/)
- * [Top JavaScript Date Libraries](https://www.cyanhall.com/top/javascript-date-libraries/)
- * [Top JavaScript Map Libraries](https://www.cyanhall.com/top/javascript-map-libraries/)
- * [Top Web Data Visualization Libraries](https://www.cyanhall.com/top/web-data-visualization-libraries/)
- * [Top JavaScript Animations Libraries](https://www.cyanhall.com/top/javascript-animation-libraries/)
- * [Top Web Editors](https://www.cyanhall.com/top/web-editors/)
- * [Top Icon Set](https://www.cyanhall.com/top/icon-set/)
- * [Top Python Web Frameworks](https://www.cyanhall.com/top/python-web-framework/)
- * [Top Go Web Frameworks](https://www.cyanhall.com/top/go-web-framework/)
- * [Top Swift Web Frameworks](https://www.cyanhall.com/top/swift-web-framework/)
-
----
-
 [Cheatsheets](https://www.cyanhall.com/cheatsheet/):
 * [Modern JavaScript](https://www.cyanhall.com/cheatsheet/8.javascript-cheatsheet/) 👈
   * [Date & Time (Moment.js/Day.js/date-fns)](https://www.cyanhall.com/cheatsheet/18.javascript-date-time-cheatsheet/) 👈
@@ -43,6 +25,34 @@
 
 VS Code Extension:
 * [close-git-unmodified](https://github.com/Cyanhall/vscode-close-git-unmodified)
+
+---
+
+[How To](https://www.cyanhall.com/how-to/)
+* [How to Increase Line spacing in UILabel in Swift](https://www.cyanhall.com/how-to/iOS/1.increase-line-spacing-in-uilabel-in-swift/)
+* [How to add drop shadow effect to UIView](https://www.cyanhall.com/how-to/iOS/2.add-drop-shadow-effect-to-uiview)
+
+---
+
+[Top](https://www.cyanhall.com/top/):
+ * [Top JavaScript Frameworks](https://www.cyanhall.com/top/javascript-framework/)
+ * [Top React UI Frameworks](https://www.cyanhall.com/top/vue-ui-framework/)
+ * [Top Vue UI Frameworks](https://www.cyanhall.com/top/vue-ui-framework/)
+ * [Top Node.js Frameworks](https://www.cyanhall.com/top/nodejs-framework/)
+ * [Top Vue Admin Template](https://www.cyanhall.com/top/vue-admin-template/)
+ * [Top Static Site Generator](https://www.cyanhall.com/top/static-site-generator/)
+ * [Top Cross Platform Frameworks](https://www.cyanhall.com/top/cross-platform-framework/)
+ * [Top CSS Frameworks](https://www.cyanhall.com/top/css-framework/)
+ * [Top JavaScript Date Libraries](https://www.cyanhall.com/top/javascript-date-libraries/)
+ * [Top JavaScript Map Libraries](https://www.cyanhall.com/top/javascript-map-libraries/)
+ * [Top Web Data Visualization Libraries](https://www.cyanhall.com/top/web-data-visualization-libraries/)
+ * [Top JavaScript Animations Libraries](https://www.cyanhall.com/top/javascript-animation-libraries/)
+ * [Top Web Editors](https://www.cyanhall.com/top/web-editors/)
+ * [Top Icon Set](https://www.cyanhall.com/top/icon-set/)
+ * [Top Python Web Frameworks](https://www.cyanhall.com/top/python-web-framework/)
+ * [Top Go Web Frameworks](https://www.cyanhall.com/top/go-web-framework/)
+ * [Top Swift Web Frameworks](https://www.cyanhall.com/top/swift-web-framework/)
+ * [Top Machine Learning Framework](https://www.cyanhall.com/top/machine-learning-framework/)
 
 ---
 
