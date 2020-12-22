@@ -28,7 +28,7 @@ VS Code Extension:
 
 ---
 
-[How To](https://www.cyanhall.com/how-to/)
+[How To](https://www.cyanhall.com/how-to/):
 * [How to Increase Line spacing in UILabel in Swift](https://www.cyanhall.com/how-to/iOS/1.increase-line-spacing-in-uilabel-in-swift/)
 * [How to add drop shadow effect to UIView](https://www.cyanhall.com/how-to/iOS/2.add-drop-shadow-effect-to-uiview)
 
