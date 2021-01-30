@@ -1,5 +1,10 @@
 # [Cyanhall](https://www.cyanhall.com/) ![img](https://www.cyanhall.com/favicon-32x32.png)
 
+[Tutorial](https://www.cyanhall.com/tutorial/):
+* [Niagara: Simple Sprite Emitter](https://www.cyanhall.com//tutorial/1.niagara-simple-sprite-emitter/)
+* [Niagara: Simple Mesh Emitter](https://www.cyanhall.com/tutorial/2.niagara-simple-mesh-emitter/)
+* [Niagara: Simple GPU Emitter](https://www.cyanhall.com/tutorial/3.niagara-simple-gpu-emitter/)
+
 ---
 
 [Cheatsheets](https://www.cyanhall.com/cheatsheet/):
@@ -29,8 +34,14 @@ VS Code Extension:
 ---
 
 [How To](https://www.cyanhall.com/how-to/):
+* [Image to text OCR using Vision framework](https://www.cyanhall.com/how-to/iOS/8.create-image-to-text-OCR-using-Vision-framework/)
+* [Reserve image order while uploading](https://www.cyanhall.com/how-to/iOS/6.reserve-image-order-while-upload-multiple-images/)
 * [How to Increase Line spacing in UILabel in Swift](https://www.cyanhall.com/how-to/iOS/1.increase-line-spacing-in-uilabel-in-swift/)
 * [How to add drop shadow effect to UIView](https://www.cyanhall.com/how-to/iOS/2.add-drop-shadow-effect-to-uiview)
+* [Set preferredStatusBarStyle](https://www.cyanhall.com/how-to/iOS/3.set-preferredStatusBarStyle/)
+* [Make UISlider's value changed by step](https://www.cyanhall.com/how-to/iOS/4.make-UISlider-value-changed-by-step/)
+* [Rotate UIImage](https://www.cyanhall.com/how-to/iOS/5.rotate-UIImage/)
+* [No-architectures-to-compile-for](https://www.cyanhall.com/how-to/iOS/7.fix-error-No-architectures-to-compile-for/)
 
 ---
 
