@@ -4,6 +4,7 @@
 * [Niagara: Simple Sprite Emitter](https://www.cyanhall.com//tutorial/1.niagara-simple-sprite-emitter/)
 * [Niagara: Simple Mesh Emitter](https://www.cyanhall.com/tutorial/2.niagara-simple-mesh-emitter/)
 * [Niagara: Simple GPU Emitter](https://www.cyanhall.com/tutorial/3.niagara-simple-gpu-emitter/)
+* [Niagara: Sprite Facing](https://www.cyanhall.com/tutorial/4.niagara-sprite-facing/)
 
 ---
 
