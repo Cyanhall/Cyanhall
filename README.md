@@ -1,11 +1,12 @@
 # [Cyanhall](https://www.cyanhall.com/) ![img](https://www.cyanhall.com/favicon-32x32.png)
 
 [Tutorial](https://www.cyanhall.com/tutorial/):
-* [Niagara: Simple Sprite Emitter](https://www.cyanhall.com//tutorial/1.niagara-simple-sprite-emitter/)
-* [Niagara: Simple Mesh Emitter](https://www.cyanhall.com/tutorial/2.niagara-simple-mesh-emitter/)
-* [Niagara: Simple GPU Emitter](https://www.cyanhall.com/tutorial/3.niagara-simple-gpu-emitter/)
-* [Niagara: Sprite Facing](https://www.cyanhall.com/tutorial/4.niagara-sprite-facing/)
-* [Niagara: Blend Attributes By Value](https://www.cyanhall.com/tutorial/5.blend-attributes-by-value)
+* [UE Niagara: Simple Sprite Emitter](https://www.cyanhall.com//tutorial/1.niagara-simple-sprite-emitter/)
+* [UE Niagara: Simple Mesh Emitter](https://www.cyanhall.com/tutorial/2.niagara-simple-mesh-emitter/)
+* [UE Niagara: Simple GPU Emitter](https://www.cyanhall.com/tutorial/3.niagara-simple-gpu-emitter/)
+* [UE Niagara: Sprite Facing](https://www.cyanhall.com/tutorial/4.niagara-sprite-facing/)
+* [UE Niagara: Blend Attributes By Value](https://www.cyanhall.com/tutorial/5.blend-attributes-by-value)
+* [UE Niagara: Static Beams](https://www.cyanhall.com/tutorial/6.static-beams)
 
 ---
 
