@@ -7,6 +7,7 @@
 * [UE Niagara: Sprite Facing](https://www.cyanhall.com/tutorial/4.niagara-sprite-facing/)
 * [UE Niagara: Blend Attributes By Value](https://www.cyanhall.com/tutorial/5.blend-attributes-by-value)
 * [UE Niagara: Static Beams](https://www.cyanhall.com/tutorial/6.static-beams)
+* [UE Niagara: Dynamic Beams](https://www.cyanhall.com/tutorial/7.dynamic-beams)
 
 ---
 
