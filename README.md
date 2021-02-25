@@ -9,6 +9,8 @@
 * [UE Niagara: Static Beams](https://www.cyanhall.com/tutorial/6.static-beams)
 * [UE Niagara: Dynamic Beams](https://www.cyanhall.com/tutorial/7.dynamic-beams)
 * [UE Niagara: Multiple Renderers](https://www.cyanhall.com/tutorial/8.multiple-renderers/)
+* [UE Niagara: Location Events](https://www.cyanhall.com/tutorial/9.location-events/)
+
 
 ---
 
